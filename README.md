@@ -38,7 +38,7 @@
       These programs together allow you to create a skip table for a pattern and use it to efficiently search for the pattern in a text file.
     </p>
     <p>
-      This program was a collaberation with another software engineer with sections commented on which parts I did, and the other person did.
+      This program was a collaboration with another software engineer with sections commented on which parts I did, and the other person did.
     </p>
   </div>
 </div>
